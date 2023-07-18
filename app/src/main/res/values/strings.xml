@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">PrimeiroApp</string>
+    <string name="app_name">Primeiro-App-DIO</string>
+    <string name="hello_dio">Olá mundo DIO</string>
 </resources>
